@@ -14,6 +14,7 @@
 		618F4A712A30E0B500C9F147 /* BlueButtonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618F4A702A30E0B500C9F147 /* BlueButtonTests.swift */; };
 		618F4A7B2A30E0B500C9F147 /* BlueButtonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618F4A7A2A30E0B500C9F147 /* BlueButtonUITests.swift */; };
 		618F4A7D2A30E0B500C9F147 /* BlueButtonUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618F4A7C2A30E0B500C9F147 /* BlueButtonUITestsLaunchTests.swift */; };
+		618F4A8B2A30E19100C9F147 /* BlueButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618F4A8A2A30E19100C9F147 /* BlueButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		618F4A762A30E0B500C9F147 /* BlueButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlueButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		618F4A7A2A30E0B500C9F147 /* BlueButtonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueButtonUITests.swift; sourceTree = "<group>"; };
 		618F4A7C2A30E0B500C9F147 /* BlueButtonUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueButtonUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		618F4A8A2A30E19100C9F147 /* BlueButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				618F4A622A30E0B500C9F147 /* Assets.xcassets */,
 				618F4A672A30E0B500C9F147 /* BlueButton.entitlements */,
 				618F4A642A30E0B500C9F147 /* Preview Content */,
+				618F4A8A2A30E19100C9F147 /* BlueButton.swift */,
 			);
 			path = BlueButton;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				618F4A612A30E0B400C9F147 /* ContentView.swift in Sources */,
 				618F4A5F2A30E0B400C9F147 /* BlueButtonApp.swift in Sources */,
+				618F4A8B2A30E19100C9F147 /* BlueButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
